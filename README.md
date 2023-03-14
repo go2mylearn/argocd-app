@@ -19,7 +19,7 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
 
 #### Links
 
-* Config repo: [https://gitlab.com/go2mylearn/argocd-app-config](https://gitlab.com/go2mylearn/argocd-app-config)
+* Config repo: [https://github.com/go2mylearn/argocd-app-config](https://github.com/go2mylearn/argocd-app-config)
 
 * Docker repo: [https://hub.docker.com/repository/docker/go2mylearn/myapp](https://hub.docker.com/r/go2mylearn/myapp)
 
