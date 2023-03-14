@@ -21,6 +21,8 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
 
 * Config repo: [https://gitlab.com/go2mylearn/argocd-app-config](https://gitlab.com/go2mylearn/argocd-app-config)
 
+* Docker repo: [https://hub.docker.com/repository/docker/go2mylearn/myapp](https://hub.docker.com/r/go2mylearn/myapp)
+
 * Install ArgoCD: [https://argo-cd.readthedocs.io/en/stable/getting_started/#1-install-argo-cd](https://argo-cd.readthedocs.io/en/stable/getting_started/#1-install-argo-cd)
 
 * Login to ArgoCD: [https://argo-cd.readthedocs.io/en/stable/getting_started/#4-login-using-the-cli](https://argo-cd.readthedocs.io/en/stable/getting_started/#4-login-using-the-cli)
