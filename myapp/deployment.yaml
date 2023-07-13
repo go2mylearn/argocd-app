@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: go2mylearn/myapp:3.0
+        image: go2mylearn/myapp:1.0
